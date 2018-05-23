@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Fake News Deterctor</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <style>
+            .center
+             {
+                margin:auto;
+                height: 200px;
+                width: 200px;
+                position:fixed;
+                top:0;
+                bottom:0;
+                left:0;
+                right:0;
+             }
+        </style>
+
+    </head>
+    <body>
+
+        <div class="center">
+            <form name="url_submit" id="submit_url_form"  action="/submit_url" method="post">
+                {% csrf_token %}
+                FAKE LINK : <input class="form-control" type="url" required name = 'url_field' placeholder="Paste your url here…"><br>
+                EMAIL : <input class="form-control" type="email" required name = 'email_field' placeholder="Paste your email here…"><br>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </body>
+</html>
