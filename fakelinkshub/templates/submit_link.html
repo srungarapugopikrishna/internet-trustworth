@@ -23,12 +23,14 @@
 
     </head>
     <body>
-
+        <div>
+            <button type="button" onclick="location.href='{% url 'logout' %}'">Logout</button>
+        </div>
         <div class="center">
             <form name="url_submit" id="submit_url_form"  action="/submit_url" method="post">
                 {% csrf_token %}
                 FAKE LINK : <input class="form-control" type="url" required name = 'url_field' placeholder="Paste your url here…"><br>
-                EMAIL : <input class="form-control" type="email" required name = 'email_field' placeholder="Paste your email here…"><br>
+                <!--EMAIL : <input class="form-control" type="email" required name = 'email_field' placeholder="Paste your email here…"><br>-->
                 <button type="submit" class="btn btn-primary">Submit</button>
             </form>
         </div>
