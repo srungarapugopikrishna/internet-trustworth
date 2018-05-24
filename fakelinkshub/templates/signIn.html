@@ -1,0 +1,23 @@
+{% if message %}
+<script>
+    alert('{{ message }}');
+</script>
+{% endif %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SignIn</title>
+</head>
+<body>
+    <form action="/postsign/" method="post">
+        {% csrf_token %}
+        Email :
+        <input type="email" name="email"><br><br>
+        Password:
+        <input type="password" name="password"><br><br>
+        <input type="submit" value="SignIn">
+        <button type="button" onclick="location.href='{% url 'signup' %}'">SignUp</button>
+    </form>
+</body>
+</html>
