@@ -67,7 +67,8 @@ def postsignup(request):
     return render(request, "signIn.html")
 
 def index(request):
-    return render(request, 'submit_link.html')
+    # return render(request, 'submit_link.html')def index(request):
+    return render(request, 'welcome.html')
 
 
 def submit_url(request):
@@ -85,3 +86,22 @@ def submit_url(request):
         return render(request, 'submit_link.html', context)
     return render(request, 'submit_link.html', context)
 
+
+def display_links(request):
+    context = {}
+    urls = Url.objects.all()
+    context['urls']=urls
+    return render(request, 'fake_links_list.html', context)
+
+
+def check_url_trustworthiness(request):
+    context = {}
+    if request.method == 'POST':
+        url = request.POST.get('url_field')
+        try:
+            url_details = Url.objects.get(url=url)
+            context['url_details'] = url_details
+        except:
+            context['message'] = 'Source never reported'
+        return render(request, 'check_link.html', context)
+    return render(request, 'check_link.html', context)

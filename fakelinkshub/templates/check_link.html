@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form name="check_url" id="check_url"  action="/check_url/" method="post">
+        {% csrf_token %}
+        <input class="form-control" type="url" required name = 'url_field' placeholder="Check the link"><br>
+        <button type="submit" class="btn btn-primary">Check</button>
+    </form>
+    {% if url_details %}
+        <div>{{url_details.url}} {{url_details.frequency}}</div>
+    {% endif %}
+    {% if message %}
+        <div>{{message}}</div>
+    {% endif %}
+</body>
+</html>

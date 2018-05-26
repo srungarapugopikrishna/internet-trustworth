@@ -21,6 +21,6 @@ class User(models.Model):
 
 class Repo(models.Model):
     repo_id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=True)
-    url_id = models.ForeignKey(Url, default=None, blank=True)
+    url_id = models.ForeignKey(Url, default=None, blank=True, on_delete=models.CASCADE)
     user_id = models.ForeignKey(User, default=None, blank=True)
     timestamp = models.DateTimeField(default=datetime.now, blank=True)
