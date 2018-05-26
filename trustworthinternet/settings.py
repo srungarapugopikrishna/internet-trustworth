@@ -25,7 +25,7 @@ SECRET_KEY = ')&p)8e^o)((0w6^el6!3@l!!g5w+-wy^$4s37$khp$a7o(%acl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['fakenewsdetector.pythonanywhere.com']
 
 # Application definition
 
