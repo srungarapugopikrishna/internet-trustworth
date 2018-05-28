@@ -24,3 +24,9 @@ class Repo(models.Model):
     url_id = models.ForeignKey(Url, default=None, blank=True, on_delete=models.CASCADE)
     user_id = models.ForeignKey(User, default=None, blank=True)
     timestamp = models.DateTimeField(default=datetime.now, blank=True)
+
+
+class token(models.Model):
+    token_id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=True)
+    user_id = models.ForeignKey(User, default=None, blank=True)
+    timestamp = models.DateTimeField(default=datetime.now, blank=True)

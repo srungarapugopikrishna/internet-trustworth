@@ -31,16 +31,29 @@
     </head>
     <body>
         <div class="tabs">
+            <!--{{request.META}}-->
+            {% if signedin %}
+                <button type="button" onclick="location.href='{% url 'submit_ulr' %}'">submit_link</button>
                 <button type="button" onclick="location.href='{% url 'display_links' %}'">display_urls</button>
                 <button type="button" onclick="location.href='{% url 'logout' %}'">Logout</button>
+            {% else %}
+                <button type="button" onclick="location.href='{% url 'display_links' %}'">display_urls</button>
+                <button type="button" onclick="location.href='{% url 'submit_ulr' %}'">submit_link</button>
+                <button type="button" onclick="location.href='{% url 'signin' %}'">SignIn</button>
+            {% endif %}
         </div>
         <div class="center">
-            <form name="url_submit" id="submit_url_form"  action="/submit_url" method="post">
+            <form name="check_url" id="check_url"  action="/check_url/" method="post">
                 {% csrf_token %}
-                FAKE LINK : <input class="form-control" type="url" required name = 'url_field' placeholder="Paste your url here…"><br>
-                <!--EMAIL : <input class="form-control" type="email" required name = 'email_field' placeholder="Paste your email here…"><br>-->
-                <button type="submit" class="btn btn-primary">Submit</button>
+                <input class="form-control" type="url" required name = 'url_field' placeholder="Check the link"><br>
+                <button type="submit" class="btn btn-primary">Check</button>
             </form>
+            {% if url_details %}
+                <div>{{url_details.url}} {{url_details.frequency}}</div>
+            {% endif %}
+            {% if message %}
+                <div>{{message}}</div>
+            {% endif %}
         </div>
     </body>
 </html>

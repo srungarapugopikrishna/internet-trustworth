@@ -3,10 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <style>
+            .tabs
+            {
+                position : absolute;
+                right : 10px;
+                top : 5px;
+            }
+    </style>
 </head>
 <body>
-    {% for url in urls %}
-        Url:{{url.url}}       Frequency:{{url.frequency}}<br>
-    {%endfor%}
+        <div class="tabs">
+            {% if signedin %}
+                <button type="button" onclick="location.href='{% url 'submit_ulr' %}'">submit_link</button>
+                <button type="button" onclick="location.href='{% url 'logout' %}'">Logout</button>
+            {% else %}
+                <button type="button" onclick="location.href='{% url 'submit_ulr' %}'">submit_link</button>
+                <button type="button" onclick="location.href='{% url 'signin' %}'">SignIn</button>
+            {% endif %}
+        </div>
+        {% for url in urls %}
+            Url:{{url.url}}       Frequency:{{url.frequency}}<br>
+        {%endfor%}
 </body>
 </html>
