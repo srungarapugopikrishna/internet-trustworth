@@ -32,10 +32,10 @@
                 <form action="/postsign/" method="post">
                     {% csrf_token %}
                     <div class="form-group">
-                        <input type="email" name="email" id="email" class="form-control input-sm" placeholder="Email Address">
+                        <input type="email" required name="email" id="email" class="form-control input-sm" placeholder="Email Address">
                     </div>
                     <div class="form-group">
-                        <input type="password" name="password" id="password" class="form-control input-sm" placeholder="Password">
+                        <input type="password" required name="password" id="password" class="form-control input-sm" placeholder="Password">
                     </div>
                     <input type="submit" value="SignIn" class="btn btn-info btn-block">
                     <button type="button" class="btn btn-info btn-block" onclick="location.href='{% url 'signup' %}'">SignUp</button>
