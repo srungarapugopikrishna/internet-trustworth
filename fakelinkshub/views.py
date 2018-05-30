@@ -3,7 +3,6 @@ from __future__ import unicode_literals
 from django.shortcuts import render
 from .models import Url, User, Repo
 from django.contrib import auth
-from validate_email import validate_email
 import requests
 import pyrebase
 import uuid
@@ -77,32 +76,27 @@ def signUp(request):
     # return render(request, "signUp.html")
 
 
-def validate_email(email):
-    return True
-
-
 def postsignup(request):
     name = request.POST.get('name')
     email = request.POST.get('email')
     password = request.POST.get('password')
     password_confirmation = request.POST.get('password_confirmation')
     if password == password_confirmation:
-        if validate_email(email):
-            try:
-                user = auth_firebase.create_user_with_email_and_password(email, password)
-                auth_firebase.send_email_verification(user['idToken'])
-            except Exception as e:
-                print('Signup exception: ',e)
-                message = "Weak Password"
-                exception = str(e)
-                if "EMAIL_EXISTS" in exception:
-                    message = "EMAIL_EXISTS"
-                elif "WEAK_PASSWORD" in exception:
-                    message = "WEAK_PASSWORD : Password should be at least 6 characters"
-                return render(request, "signup.html", {"message": message})
-            uid = user['localId']
-            data = {"name": name, "status": "1"}
-            database.child("users").child(uid).child("details").set(data)
+        try:
+            user = auth_firebase.create_user_with_email_and_password(email, password)
+            auth_firebase.send_email_verification(user['idToken'])
+        except Exception as e:
+            print('Signup exception: ',e)
+            message = "Weak Password"
+            exception = str(e)
+            if "EMAIL_EXISTS" in exception:
+                message = "EMAIL_EXISTS"
+            elif "WEAK_PASSWORD" in exception:
+                message = "WEAK_PASSWORD : Password should be at least 6 characters"
+            return render(request, "signup.html", {"message": message})
+        uid = user['localId']
+        data = {"name": name, "status": "1"}
+        database.child("users").child(uid).child("details").set(data)
         return render(request, "signin.html")
     else:
         message = "both passwords should be same"
