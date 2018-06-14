@@ -1,11 +1,15 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 from django.shortcuts import render
-from .models import Url, User, Repo
+from .models import Url, User, Repo, UrlSource
 from django.contrib import auth
-import requests
+from urllib.parse import urlparse
+
 import pyrebase
 import uuid
+import json
+
+from .dumps.snopes_dump import raw_snopes_dump
 
 config = {
     'apiKey': "AIzaSyC12GXJRfy1J3HqBb8Lw4Pp_kaVtIpk_Z8",
@@ -146,7 +150,6 @@ def display_links(request):
         return render(request, 'fake_links_list.html', context)
 
 
-
 def check_url_trustworthiness(request):
     context = {}
     if request.method == 'POST':
@@ -178,3 +181,46 @@ def get_unique_token():
 #         return False
 #     return True
 
+
+def display_analytics(request):
+    from collections import Counter
+    context = {}
+    urllist = []
+    urls = Url.objects.all()
+    for url in urls:
+        parsed_url = urlparse(url.url)
+        uri = '{uri.path}?{uri.query}'.format(uri=parsed_url)
+        domain = parsed_url.netloc
+        urllist.append(domain.replace('www.', ''))
+    url_frequency = Counter(urllist)
+    data = [i for i in map(lambda t: {'Name': t[0], 'Count': t[1]}, url_frequency.items())]
+    print(type(data[1]), data[1])
+    context['data'] = json.dumps(data)
+    return render(request, 'bubble_chart.html', context)
+
+
+def save_source_resource(url_obj, source_url):
+    url_source_obj, url_source_created = UrlSource.objects.get_or_create(url_id=url_obj)
+    if url_source_created:
+        url_source_obj.source_url = source_url
+
+
+def scrape_dashboard(request):
+    return render(request, "scrape_sites_dashboard.html")
+
+
+def snopes_scrape(request):
+    snopes_dump = raw_snopes_dump
+    for data in snopes_dump:
+        for key, value in data.items():
+            print(key, '----', value)
+            url = value
+            email = 'admin@gmail.com'
+            user_obj, user_created = User.objects.get_or_create(user_email=email)
+            url_obj, url_created = Url.objects.get_or_create(url=url)
+            repo_obj, repo_created = Repo.objects.get_or_create(url_id=url_obj, user_id=user_obj)
+            if url_created is False:
+                url_obj.frequency += 1
+                url_obj.save()
+            save_source_resource(url_obj, key)
+    return render(request, 'scrape_sites_dashboard.html', {})

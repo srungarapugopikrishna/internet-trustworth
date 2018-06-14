@@ -38,6 +38,7 @@
                 <button type="button" onclick="location.href='{% url 'logout' %}'">Logout</button>
             {% else %}
                 <button type="button" onclick="location.href='{% url 'display_links' %}'">display_urls</button>
+                <button type="button" onclick="location.href='{% url 'display_analytics' %}'">Analytics</button>
                 <button type="button" onclick="location.href='{% url 'submit_ulr' %}'">submit_link</button>
                 <button type="button" onclick="location.href='{% url 'signin' %}'">SignIn</button>
             {% endif %}
