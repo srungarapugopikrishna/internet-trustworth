@@ -1,0 +1,400 @@
+<tr><td><a href="http://abcnews.com.co/">AbcNews.com.co</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="http://alternativemediasyndicate.com">Alternative Media Syndicate</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="http://informedowners.com/">Informed Owners</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="http://trumpers.online/">Departed (Maganews.com)</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="http://truthfeed.com/">TruthFeed</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="http://usinfonews.com/">US Info News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="http://www.dailyinsidernews.com/crime/espionage-fbi-huma-abedin-secretly-stored-650000-emails-proving-hillary-clinton-is-a-pedophile/">Daily Insider News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">140</td></tr>
+<tr><td><a href="http://www.digifection.com/">The Times of America</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">907</td></tr>
+<tr><td><a href="http://www.yesimright.com/#">Yes, I m Right</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">5681</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/100-percent-fed-up/">100 Percent Fed Up</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/10news-one/">10News.one</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">0</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/247-news-media/">247 News Media</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/70-news/">70 News (Fake)</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/a-voice-for-men/">A Voice for Men</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">23230</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/age-of-shitlords/">Age of Shitlords</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/alabama-observer/">Alabama Observer</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/all-news-pipeline/">All News Pipeline</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/allen-west-republic/">Allen West Republic</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/alliance-defending-freedom/">Alliance Defending Freedom</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">77863</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/american-college-of-pediatricians/">American College of Pediatricians</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">2944</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/american-family-association/">American Family Association</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">39714</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/american-fans/">American Fans</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/american-flavor/">American Flavor</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/american-freedom-fighters/">Americas Freedom Fighters</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">503</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/american-journal-review/">American Journal Review</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">334</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/american-lookout/">American Lookout</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/american-news/">American News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/american-patriot-daily/">American Patriot Daily</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">2438</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/american-people-network/">American People Network</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/american-prides/">American Prides</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">3</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/american-principles-project/">American Principles Project</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/american-renaissance-magazine/">American Renaissance Magazine</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">83534</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/american-today/">American Today</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/american-truth-seekers/">American Truth Seekers</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/american-updater/">American Updater</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/americans-against-the-tea-party-aattp/">Americans Against the Tea Party (AATTP)</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">30358</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/anews-24-com-american-news/">anews-24.com (American News)</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/aurora-news/">Aurora-News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/banned-information/">Banned Information</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/bare-naked-islam/">Bare Naked Islam</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">75170</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/bb4sp/">BB4SP</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/beaware/">BeAware</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">0</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/before-its-news/">Before it s News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/big-blue-vision/">Big Blue Vision</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/bipartisan-report/">Bipartisan Report</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">16284</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/black-genocide/">Black Genocide</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1826</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/black-pigeon-speaks/">Black Pigeon Speaks</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/blue-informer/">Blue Informer</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/blue-tribune/">Blue Tribune</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/blue-vision-post/">Blue Vision Post</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/bluevision-news/">BlueVision.News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">0</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/blunt-force-truth/">Blunt Force Truth</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">3772</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/borderland-alternative-media-bam/">Borderland Alternative Media (BAM)</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/breaking911/">Breaking911</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">34732</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/breakingtop-world/">Breakingtop.world</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/cbsnews-com-co/">CBSNews.com.co</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">488</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/censored-news/">Censored.News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">0</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/center-for-immigration-studies-cis/">Center for Immigration Studies (CIS)</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/centre-for-research-of-radicalism-and-national-security-crrns/">Centre for Research of Radicalism and National Security (CRRNS)</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">6</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/cerno-cernovich-com/">Cerno (Cernovich.com)</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/christian-action-network/">Christian Action Network</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/cityworldnews/">CityWorldNews</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/clarion-project/">Clarion Project</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/clash-daily/">Clash Daily</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/cnn-com-de/">Cnn.com.de</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">27</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/cnn-globalnews-com/">cnn-globalnews.com</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">0</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/concerned-women-america/">Concerned Women for America</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/conservapedia/">Conservapedia</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1733</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/conservative-101/">Conservative 101</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/conservative-army/">Conservative Army</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">466</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/conservative-byte/">Conservative Byte</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/conservative-daily-post/">Conservative Daily Post</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/conservative-fighters/">Conservative Fighters</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/conservative-firing-line/">Conservative Firing Line</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/conservative-flash-news/">Conservative Flash News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/conservative-free-press/">Conservative Free Press</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">784</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/conservative-info-corner/">Conservative Info Corner</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">21</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/conservative-media/">Conservative Media</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/conservative-movement/">Conservative Movement</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/conservative-nation/">Conservative Nation</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">5205</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/conservative-patriot/">Conservative Patriot</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">3383</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/conservative-politicus/">Conservative Politicus</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">79</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/conservative-post/">Conservative Post</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/conservative-spirit/">Conservative Spirit</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/conservative-tribune/">Conservative Tribune</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/constitution-rising/">Constitution Rising</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/daily-buzz-live/">Daily Buzz Live</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/daily-headlines/">Daily Headlines</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/daily-infobox/">Daily Infobox</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/daily-notify/">Daily Notify</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">39</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/daily-presser/">Daily Presser</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1158</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/daily-stormer/">Daily Stormer</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">30800</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/daily-stormer/">Daily Stormer</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">214</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/daily-usa-update/">Daily USA Update</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">11</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/daily-world-information/">Daily World Information</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">0</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/danger-and-play/">Danger and Play</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">29590</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/david-horowitz-freedom-center/">David Horowitz Freedom Center</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">103185</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/dc-gazette/">DC Gazette</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/debkafile/">DEBKAfile</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">259144</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/defend-europa/">Defend Europa</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1207</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/defiant-america/">Defiant America</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/defund-com/">Defund.com</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/democratic-moms/">Democratic Moms</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1842</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/democratic-review/">Democratic Review</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/denver-guardian/">Denver Guardian</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/deplorable-movement-2020/">Deplorable Movement 2020</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">0</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/discover-the-networks/">Discover the Networks</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">108372</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/donald-trump-news/">Donald Trump News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/donald-trump-potus-45/">Donald Trump Potus 45</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/downtrend/">Downtrend</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/draining-the-swamp/">Draining the Swamp</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/eagle-rising/">Eagle Rising</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/earthnews-conservative-news/">EarthNews   Conservative News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">25</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/embols/">Embols</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/empire-herald/">Empire Herald</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">10</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/en-volve/">En Volve</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/ending-the-fed-news/">Ending the Fed News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">13109</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/enh-live/">ENH Live</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">4226</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/exposing-government/">Exposing Government</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">29</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/family-research-council/">Family Research Council</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">115097</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/fars-news/">Fars News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/federalist-nation/">Federalist Nation</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">566</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/federalist-tribune/">Federalist Tribune</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1697</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/flash-news-corner/">Flash News Corner</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/florida-sun-post/">Florida Sun-Post</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">54</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/focus-on-the-family/">Focus on the Family</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">77649</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/france24-tv-com/">France24-TV.com</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/freakout-nation/">Freakout Nation</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/free-patriot-post/">Free Patriot Post</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">308</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/free-rein-report/">Free Rein Report</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/freedom-daily/">Freedom Daily</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/freedom-liberty-news/">Freedom Liberty News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">20</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/freedom-outpost/">Freedom Outpost</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/freedoms-final-stand/">Freedom s Final Stand</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/fresh-news-usa/">Fresh News   USA</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">2601</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/frontpage-magazine/">Frontpage Magazine</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">549006</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/fury-news/">Fury News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">0</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/fwd-now/">FWD Now</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">189</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/geller-report/">Geller Report</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/girls-just-wanna-have-guns/">Girls Just Wanna Have Guns</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/global-info-today/">Global Info Today</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">54</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/global-politics-now/">Global Politics Now</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/globe-magazine/">Globe Magazine</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">59252</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/gone-left/">Gone Left</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/goodgopher/">GoodGopher</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">83349</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/gop-watchdog/">GOP Watchdog</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/gotnews/">GotNews</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/hang-the-bankers/">Hang the Bankers</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">41113</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/hawar-news-agency/">Hawar News Agency</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/hogg-watch/">Hogg Watch</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">0</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/i-have-the-truth/">I have the Truth</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">7142</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/i-hypocrite/">I, Hypocrite</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/i-love-my-freedom/">I Love My Freedom</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/if-you-only-news/">If You Only News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">18712</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/imowired/">IMOwired</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/infogalactic/">InfoGalactic</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/information-liberation/">Information Liberation</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">114277</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/international-organization-for-the-family-iof/">International Organization for the Family (IOF)</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">300</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/israel-video-network/">Israel Video Network</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">3696</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/itag-live/">iTag Live</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/jew-watch/">Jew Watch</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/jihad-watch/">Jihad Watch</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">545770</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/joe-for-america/">Joe for America</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/jookos-news/">Jookos News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">29561</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/just-the-facts/">Just the Facts</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1445</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/knights-templar-international/">Knights Templar International</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/lady-liberty-news/">Lady Liberty News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/learn-progress/">Learn Progress</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">13</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/liberal-plug/">Liberal Plug</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/liberal-society/">Liberal Society</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/liberal-speak/">Liberal Speak</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/liberty-brief/">Liberty Brief</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/liberty-courier/">Liberty Courier</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">2</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/liberty-is-viral/">Liberty is Viral</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/london-web-news/">London Web News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/loonwatch/">LoonWatch</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">86755</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/loser-com/">Loser.com</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/mad-american-network/">Mad American Network</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/mad-world-news/">Mad World News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/magapill/">MagaPill</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1060</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/martinlutherking-org/">MartinLutherKing.org</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">184</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/mbga-make-britain-great/">MBGA   Make Britain Great Again</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/media-zone/">Media Zone</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">0</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/metapedia/">Metapedia</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/middle-east-media-research-institute-memri/">Middle East Media Research Institute (MEMRI)</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">267936</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/milo-news/">MILO News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/molon-labe-media/">Molon Labe Media</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/moving-left/">Moving Left</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/mr-conservative-mrc/">Mr. Conservative (MRC)</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">142</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/my-right-american/">My Right American</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/myzonetoday/">MyZoneToday</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/nation-one-news/">Nation One News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">51</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/nation45/">Nation45</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/national-alliance/">National Alliance</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/national-economics-editorial/">National Economics Editorial</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">14</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/national-enquirer/">National Enquirer</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">173512</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/national-policy-institute/">National Policy Institute</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">5531</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/national-vanguard/">National Vanguard</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/native-american-news/">Native American News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">186</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/native-americans/">Native Americans</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/neverrepublican-com/">NeverRepublican.com</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">23</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/nevo-news/">Nevo News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">0</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/new-century-times/">New Century Times</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/new-nation-news/">New Nation News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">5164</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/news-blaze/">News Blaze</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/news-chicken/">News Chicken</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/news-conservative/">News Conservative</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/news-feed-hunter/">News Feed Hunter</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/news-stories-usa/">News and Stories From USA</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/news-up-today/">News Up Today</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/news-with-views/">News With Views</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">12450</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/newsbreakshere/">NewsBreaksHere</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/newswars/">NewsWars</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/nmws-us/">NMWS.us</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">644</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/nos-comunicamos/">Nos Comunicamos</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/oath-keepers/">Oath Keepers</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">22576</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/occupy-democrats/">Occupy Democrats</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/online-conservative-press/">Online Conservative Press</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">156</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/open-magazines/">Open Magazines</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">21</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/opposition-report/">Opposition Report</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/our-eye-on-islam/">Our Eye on Islam</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">4</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/overpasses-for-america/">Overpasses for America</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/pacific-pundit/">Pacific Pundit</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">40571</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/patribotics-blog/">Patribotics Blog</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/patriot-beacon/">Patriot Beacon</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">3</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/patriot-fires/">Patriot Fires</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">54</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/patriot-hangout/">Patriot Hangout</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/patriot-update/">Patriot Update</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/patriotic-viral-news/">Patriotic Viral News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/patriots-voice/">Patriots Voice</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/personal-liberty/">Personal Liberty</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">5024</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/plymouth-patriot-post/">Plymouth Patriot Post</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">84</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/pm-nightly-news/">PM Nightly News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/police-times/">Police Times</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/political-ears/">Political Ears</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">9</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/political-inbox/">Political Inbox</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">613</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/political-mayhem-news/">Political Mayhem News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/political-site-news/">Political Site News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/politico-info/">Politico Info</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">40</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/politics-live/">Politics Live</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/politifact-news/">Politifact News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">0</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/powdered-wig-society/">Powdered Wig Society</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/president-45-donald-trump/">President 45 Donald Trump</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/prideof-america-org-american-news/">Prideof-America.org (American News)</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">4</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/prntly/">Prntly</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">6703</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/pro-america-news/">Pro-America News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">2</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/progress-tribune/">Progress Tribune</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/progressives-today/">Progressives Today</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">96657</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/project-purge/">Project Purge</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/proud-leader/">Proud Leader</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/proud-patriots/">Proud Patriots</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">4077</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/puppet-string-news/">Puppet String News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">386</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/qpolitical/">QPolitical</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/react-365/">React 365</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">15079</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/read-conservatives/">Read Conservatives</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/reagan-coalition/">Reagan Coalition</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/real-time-politics/">Real Time Politics</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/red-country-conservative-news/">Red Country   Conservative News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">21</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/red-ice-tv/">Red Ice TV</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/red-info/">Red Info</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">5</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/red-people/">Red People</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">2</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/red-politics/">Red Politics</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">6</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/red-rock-daily-news/">Red Rock Daily News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">293</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/red-rock-daily-news/">Red Rock Daily News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">3</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/red-rock-tribune/">Red Rock Tribune</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/red-state-pundit/">Red State Pundit</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">145</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/red-white-and-right/">Red, White and Right</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/renew-america/">Renew America</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">122551</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/resistance-report/">Resistance Report</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/return-of-kings/">Return of Kings</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">91449</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/right-alerts/">Right Alerts</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/right-journalist/">Right Journalist</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/right-side-news/">Right Side News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1297</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/right-smarts/">Right Smarts</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/right-wing-news/">Right Wing News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/rinf/">RINF</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">30663</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/ruth-institute/">Ruth Institute</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">9719</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/shared-news-report/">Shared News Report</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/shtfplan-com/">SHTFplan.com</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">116771</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/smoloko-news/">Smoloko News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/sons-liberty-media/">The Sons of Liberty Media</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/south-africa-today/">South Africa Today</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/south-jersey-mechanic-trump-news/">South Jersey Mechanic (Trump News)</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/speakgov-com/">SpeakGov.com</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">0</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/speisa/">Speisa</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">6620</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/spinzon/">Spinzon</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/squawker/">Squawker</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/stares-at-the-world/">Stares at the World</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">12031</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/state-fort-daily/">State Fort Daily</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">109</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/state-of-the-union-2012/">State of the Nation 2012</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/steadfast-and-loyal/">Steadfast and Loyal</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">99</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/stone-cold-truth/">Stone Cold Truth</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/studio-news-network/">Studio News Network</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">7</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/subject-politics/">Subject Politics</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/sunday-inquirer/">Sunday Inquirer</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">26</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/supreme-patriot/">Supreme Patriot</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">2984</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/sure-news/">Sure News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">6355</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/syria-news/">Syria News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1676</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/takis-magazine/">Taki s Magazine</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/tashnews/">TashNews</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">42</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/td-newswire/">TD Newswire</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">4</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/tdtalliance-com/">TdtAlliance.com</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">15</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/tea-party-inc/">Tea Party Inc</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">21713</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/teddy-stick/">Teddy Stick</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/tell-me-now/">Tell Me Now</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">0</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-american-mirror/">The American Mirror</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-angry-patriot/">The Angry Patriot</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">167</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-boston-tribune/">The Boston Tribune</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">20</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-constitution/">The Constitution</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-d-c-clothesline/">The D.C. Clothesline</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">35759</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-daily-bell/">The Daily Bell</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">58490</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-deplorables/">The Deplorables</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-duran/">The Duran</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-federalist-papers-project/">The Federalist Papers Project</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-federation-for-american-immigration-reform-fair/">The Federation for American Immigration Reform (FAIR)</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">16098</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-free-patriot/">The Free Patriot</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-free-telegraph/">The Free Telegraph</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-gateway-pundit/">The Gateway Pundit</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">388743</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-goldwater/">The Goldwater</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">5147</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-horn-news/">The Horn News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-liberty-eagle/">The Liberty Eagle</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-national-patriot/">The National Patriot</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">22666</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-national-pulse/">The National Pulse</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-new-observer/">The New Observer</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">15759</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-new-york-evening/">The New York Evening</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-news-guru/">The News Guru</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-peoples-truth/">The Peoples Truth</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-political-tribune/">The Political Tribune</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1139</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-premium-news/">The Premium News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">3</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-proud-conservative/">The Proud Conservative</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">26</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-proud-liberal/">The Proud Liberal</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-religion-of-peace/">The Religion of Peace</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">633203</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-remnant-magazine/">The Remnant Magazine</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-right-stuff/">The Right Stuff</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-rightists/">The Rightists</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-trump-media/">The Trump Media</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-truth-division/">The Truth Division</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-unz-report/">The Unz Review</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">114164</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-us-patriot/">The US Patriot</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">33</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-usa-conservative/">The USA Conservative</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-washington-feed/">The Washington Feed</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">21555</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-washington-reporter/">The Washington Reporter</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">0</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/the-washington-standard/">The Washington Standard</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/thebreakingnews/">TheBreakingNews</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">0</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/today-dispatch/">Today Dispatch</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/top-right-news/">Top Right News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/true-activist/">True Activist</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">31381</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/true-blue-scoop/">True Blue Scoop</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/true-trumpers/">True Trumpers</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">36</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/trumpservative-news/">Trumpservative News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">182</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/truth-examiner/">Truth Examiner</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">372</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/truth-in-media/">Truth in Media</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">6208</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/truth-revolt/">Truth Revolt</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">152424</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/truth-uncensored/">Truth Uncensored</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/truthfeed/">TruthFeed</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">13694</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/uncle-sams-misguided-children/">Uncle Sams Misguided Children</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/underground-journalist/">Underground Journalist</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/unique-web-magazine/">Unique Web Magazine</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/universe-politics/">Universe Politics</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/us-advisor/">US Advisor</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">431</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/us-chronicle/">US Chronicle</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">2407</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/us-herald/">US Herald</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/us-journal-review/">US Journal Review</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/us-postman/">US Postman</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">926</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/usa-conservative-report/">USA Conservative Report</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/usa-daily-post/">USA Daily Post</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/usa-daily-review/">USA Daily Review</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/usa-daily-time/">USA Daily Time</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1095</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/usa-dose-news/">USA Dose News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/usa-in-front/">USA in Front</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">4</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/usa-news-for-you/">USA News for You</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/usa-newsflash/">USA Newsflash</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">37</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/usa-newspolitics-usa-news/">USA News/Politics USA News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/usa-newsstates-tv/">USA News/States-TV</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/usa-politics-now/">USA Politics Now</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">80</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/usa-public-life/">USA Public Life</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">280</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/usa-supreme/">USA Supreme</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">7507</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/usa-television/">USA Television</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/usa-viral-news-today/">USA Viral News Today</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">40</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/usa-world-box/">USA World Box</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/usafirstinfo/">USAFirstInfo</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">678</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/usanewstoday/">USANewsToday</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/vanguard-america/">Vanguard America</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">171</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/vatican-radio/">Vatican Radio</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/vdare/">VDARE</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">157871</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/vidmax-2/">Vidmax</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/viral-liberty/">Viral Liberty</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/viral-patriot/">Viral Patriot</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/walk-with-her/">Walk With Her</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/we-conservative/">We Conservative</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/web-daily/">Web Daily</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">15</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/western-sentinel/">Western Sentinel</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">9</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/wikiislam/">WikiIslam</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1477</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/winning-democrats/">Winning Democrats</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/witherspoon-institute/">Witherspoon Institute</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">28940</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/world-news-politics/">World News Politics</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">112</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/world-politicus/">World Politicus</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/worldpolitics-news/">WorldPolitics News</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">3</td></tr>
+<tr><td><a href="https://mediabiasfactcheck.com/zootfeed/">ZootFeed</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">2764</td></tr>
+<tr><td><a href="https://redstatejournalist.com">Red State Journalist</a></td><td align="center">Fake</td><td align="center" data-sort="5-Fake">Fake</td><td align="right">1</td></tr>
