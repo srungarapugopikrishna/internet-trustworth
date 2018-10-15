@@ -16,4 +16,5 @@ urlpatterns = [
     url(r'^scrape_dashboard/', views.scrape_dashboard, name="scrape_dashboard"),
     url(r'^snopes_scrape/', views.snopes_scrape, name="snopes_scrape"),
     url(r'^analytics/', views.display_analytics, name="display_analytics"),
+    url(r'^websites/', views.websites_details, name="websites_details"),
 ]

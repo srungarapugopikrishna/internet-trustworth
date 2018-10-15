@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <style>
             .tabs
             {
@@ -22,8 +25,26 @@
                 <button type="button" onclick="location.href='{% url 'signin' %}'">SignIn</button>
             {% endif %}
         </div>
-        {% for url in urls %}
-            Url:{{url.url}}       Frequency:{{url.frequency}}<br>
-        {%endfor%}
+<br><br>
+        <div>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">#</th>
+                  <th scope="col">URL</th>
+                  <th scope="col">Number of times reported</th>
+                </tr>
+              </thead>
+              <tbody>
+              {% for url in urls %}
+                  <tr>
+                      <th scope="row">{{ forloop.counter }}</th>
+                      <td>{{url.url}}</td>
+                      <td>{{url.frequency}}</td>
+                    </tr>
+            {%endfor%}
+              </tbody>
+            </table>
+        </div>
 </body>
 </html>

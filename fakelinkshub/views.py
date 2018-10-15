@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 from django.shortcuts import render
-from .models import Url, User, Repo
+from .models import Url, User, Repo, UrlSource
 from django.contrib import auth
 from urllib.parse import urlparse
+from fakelinkshub.parsers.opensources_parser import parse_opensources_corpus
 
 import pyrebase
 import uuid
@@ -37,7 +38,8 @@ def postsign(request):
     password = request.POST.get('password')
     try:
         user = auth_firebase.sign_in_with_email_and_password(email, password)
-        user_info =  auth_firebase.get_account_info(user['idToken'])
+
+        user_info = auth_firebase.get_account_info(user['idToken'])
         if len(user_info['users']) == 1:
             info = user_info['users'][0]
         # print('email verified:\n',info['emailVerified'])
@@ -117,6 +119,27 @@ def home(request):
     return render(request, 'home.html')
 
 
+# def submit_url(request):
+#     context = {}
+#     try:
+#         if request.session['user_token']:
+#             if request.method == 'POST':
+#                 url = request.POST.get('url_field')
+#                 email = request.session['email']
+#                 user_obj, user_created = User.objects.get_or_create(user_email=email)
+#                 url_obj, url_created = Url.objects.get_or_create(url=url)
+#                 repo_obj, repo_created = Repo.objects.get_or_create(url_id=url_obj, user_id=user_obj)
+#                 if url_created is False:
+#                     url_obj.frequency += 1
+#                     url_obj.save()
+#                 return render(request, 'submit_link.html', context)
+#             return render(request, 'submit_link.html', context)
+#         else:
+#             return render(request, "signin.html")
+#     except KeyError or Exception as e:
+#         return render(request, "signin.html")
+
+
 def submit_url(request):
     context = {}
     try:
@@ -124,8 +147,9 @@ def submit_url(request):
             if request.method == 'POST':
                 url = request.POST.get('url_field')
                 email = request.session['email']
+                reason = request.POST.get('url_field')
                 user_obj, user_created = User.objects.get_or_create(user_email=email)
-                url_obj, url_created = Url.objects.get_or_create(url=url)
+                url_obj, url_created = Url.objects.get_or_create(url=url, reason=reason)
                 repo_obj, repo_created = Repo.objects.get_or_create(url_id=url_obj, user_id=user_obj)
                 if url_created is False:
                     url_obj.frequency += 1
@@ -199,6 +223,13 @@ def display_analytics(request):
     return render(request, 'bubble_chart.html', context)
 
 
+def websites_details(request):
+    context = {}
+    context['data'] = parse_opensources_corpus()
+    print(context)
+    return render(request, 'websites_hub.html', context)
+
+
 def save_source_resource(url_obj, source_url):
     url_source_obj, url_source_created = UrlSource.objects.get_or_create(url_id=url_obj)
     if url_source_created:
@@ -224,3 +255,4 @@ def snopes_scrape(request):
                 url_obj.save()
             save_source_resource(url_obj, key)
     return render(request, 'scrape_sites_dashboard.html', {})
+

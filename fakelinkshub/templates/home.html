@@ -35,10 +35,12 @@
             {% if signedin %}
                 <button type="button" onclick="location.href='{% url 'submit_ulr' %}'">submit_link</button>
                 <button type="button" onclick="location.href='{% url 'display_links' %}'">display_urls</button>
+                <button type="button" onclick="location.href='{% url 'websites_details' %}'">websites_details</button>
                 <button type="button" onclick="location.href='{% url 'logout' %}'">Logout</button>
             {% else %}
                 <button type="button" onclick="location.href='{% url 'display_links' %}'">display_urls</button>
                 <button type="button" onclick="location.href='{% url 'display_analytics' %}'">Analytics</button>
+                <button type="button" onclick="location.href='{% url 'websites_details' %}'">websites_details</button>
                 <button type="button" onclick="location.href='{% url 'submit_ulr' %}'">submit_link</button>
                 <button type="button" onclick="location.href='{% url 'signin' %}'">SignIn</button>
             {% endif %}
@@ -50,7 +52,7 @@
                 <button type="submit" class="btn btn-primary">Check</button>
             </form>
             {% if url_details %}
-                <div>{{url_details.url}} {{url_details.frequency}}</div>
+                <div>This url({{url_details.url}}) is reported {{url_details.frequency}} times</div>
             {% endif %}
             {% if message %}
                 <div>{{message}}</div>
