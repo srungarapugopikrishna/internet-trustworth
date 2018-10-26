@@ -13,6 +13,7 @@ urlpatterns = [
     url(r'^signup/', views.signUp, name="signup"),
     url(r'^postsignup/', views.postsignup),
     url(r'^submit_url$', views.submit_url, name='submit_ulr'),
+    url(r'^support', views.youtube_submit_url, name='youtube_submit_url'),
     url(r'^scrape_dashboard/', views.scrape_dashboard, name="scrape_dashboard"),
     url(r'^snopes_scrape/', views.snopes_scrape, name="snopes_scrape"),
     url(r'^analytics/', views.display_analytics, name="display_analytics"),

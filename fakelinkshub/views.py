@@ -119,25 +119,45 @@ def home(request):
     return render(request, 'home.html')
 
 
-# def submit_url(request):
-#     context = {}
-#     try:
-#         if request.session['user_token']:
-#             if request.method == 'POST':
-#                 url = request.POST.get('url_field')
-#                 email = request.session['email']
-#                 user_obj, user_created = User.objects.get_or_create(user_email=email)
-#                 url_obj, url_created = Url.objects.get_or_create(url=url)
-#                 repo_obj, repo_created = Repo.objects.get_or_create(url_id=url_obj, user_id=user_obj)
-#                 if url_created is False:
-#                     url_obj.frequency += 1
-#                     url_obj.save()
-#                 return render(request, 'submit_link.html', context)
-#             return render(request, 'submit_link.html', context)
-#         else:
-#             return render(request, "signin.html")
-#     except KeyError or Exception as e:
-#         return render(request, "signin.html")
+def youtube_submit_url(request):
+    context = {}
+    try:
+        if request.session['user_token']:
+            if request.method == 'POST':
+                url = request.POST.get('url_field')
+                email = request.session['email']
+                reason = request.POST.get('other_reason')
+                reason_ids = request.POST.getlist('reason_data')
+                reasons = {
+                    'reason_1': 'Description and video didn\'t matched',
+                    'reason_2': 'Wrong thumbnail',
+                    'reason_3': 'This is not a video. This is a audio file',
+                    'reason_4': 'This is not the original video',
+                }
+                reason_output = None
+                for id in reason_ids:
+                    if reason_output is None:
+                        reason_output = reasons[id]
+                    else:
+                        reason_output = reason_output + '|' + reasons[id]
+                if reason:
+                    reason += '|'+reason_output
+                # user_obj, user_created = User.objects.get_or_create(user_email=email)
+                # url_obj, url_created = Url.objects.get_or_create(url=url, reason=reason)
+                # repo_obj, repo_created = Repo.objects.get_or_create(url_id=url_obj, user_id=user_obj)
+                # if url_created is False:
+                #     context['message'] = 'Source already reported'
+                #     return render(request, 'youtube_submitter.html', context)
+                # else:
+                #     url_obj.save()
+                #     context['message'] = 'Source reported successfully'
+
+                return render(request, 'youtube_submitter.html', context)
+            return render(request, 'youtube_submitter.html', context)
+        else:
+            return render(request, "signin.html")
+    except KeyError or Exception as e:
+        return render(request, "signin.html")
 
 
 def submit_url(request):

@@ -28,6 +28,17 @@
                 top : 5px;
             }
         </style>
+        <script type="text/javascript">
+            function valueChanged()
+            {
+                <!--alert("hi");-->
+                if($('#reason_5').is(":checked")){
+                    $("#other_reason").show();
+                 }else{
+                    $("#other_reason").hide();
+                 }
+            }
+        </script>
     </head>
     <body>
         <div class="tabs">
@@ -35,12 +46,33 @@
                 <button type="button" onclick="location.href='{% url 'logout' %}'">Logout</button>
         </div>
         <div class="center">
-            <form name="url_submit" id="submit_url_form"  action="/submit_url" method="post">
+            <form name="youtube_submit_url" id="supporter_form"  action="/support" method="post">
                 {% csrf_token %}
                 FAKE LINK : <input class="form-control" type="url" required name = 'url_field' placeholder="Paste your url here…"><br>
                 <!--EMAIL : <input class="form-control" type="email" required name = 'email_field' placeholder="Paste your email here…"><br>-->
+                REASON : <br>
+                <input class="form-check-input" name="reason_data" type="checkbox" value="reason_1" id="reason_1">
+                <label class="form-check-label" for="reason_1">Description and video didn't matched</label>
+                <br>
+                <input class="form-check-input" name="reason_data" type="checkbox" value="reason_2" id="reason_2">
+                <label class="form-check-label" for="reason_2">Wrong thumbnail</label>
+                <br>
+                <input class="form-check-input" name="reason_data" type="checkbox" value="reason_3" id="reason_3">
+                <label class="form-check-label" for="reason_3">This is not a video. This is a audio file</label>
+                <br>
+                <input class="form-check-input" name="reason_data" type="checkbox" value="reason_4" id="reason_4">
+                <label class="form-check-label" for="reason_4">This is not the original video</label>
+                <br>
+                <input class="form-check-input" name="reason_data" type="checkbox" value="reason_5" id="reason_5" onchange="valueChanged()">
+                <label class="form-check-label" for="reason_5">Other</label>
+                <br>
+                <br>
+                <textarea class="form-control" rows="4" style="display:none;" name="other_reason" id = "other_reason" placeholder="Tell us why are you reporting this link"></textarea><br>
                 <button type="submit" class="btn btn-primary">Submit</button>
             </form>
         </div>
+    {% if message %}
+        <div>{{message}}</div>
+    {% endif %}
     </body>
 </html>
